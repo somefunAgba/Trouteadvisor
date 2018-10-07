@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/151870486.svg)](https://zenodo.org/badge/latestdoi/151870486)
 # Trouteadvisor
 ##### Nigerian Intercity Travel Route Advisor
 #####  PLAN YOUR INTERCITY ROUTES TO MULTIPLE CITIES AND BACK HOME WITHIN NIGERIA
